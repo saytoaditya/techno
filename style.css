@@ -34,11 +34,17 @@ body{
    
 .nav{
     background-color: #333333;
-    padding:6px;
+    padding:3px;
+    
+}
+.navlist
+{
+    justify-content: center;
 }
 .nav ul{
     display: flex;
     list-style:none;
+    
     
 }
 .navlink {
@@ -51,7 +57,7 @@ body{
 }
 .nav-blog-img{
     margin-left: auto;
-    
+    margin-right: 18px;
 }
 .news{
     margin: 25px;
