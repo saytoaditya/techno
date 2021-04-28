@@ -15,7 +15,7 @@ body{
 .br{
     border: solid red 1px;
 }
-.nav a:hover {
+.nav li:hover {
     background-color: black;
   }
 
